@@ -1,0 +1,6 @@
+Package    Version
+---------- -------
+Pillow     9.4.0
+pip        22.3
+reportlab  3.6.12
+setuptools 65.5.0
